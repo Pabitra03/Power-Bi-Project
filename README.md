@@ -9,7 +9,7 @@ An interactive Power BI dashboard designed to analyze and visualize key sales me
 
 ## 📸 Screenshots
 
-![Main Dashboard Preview](./8710d6fb-9c70-4d52-b4f5-f1e5ff02c94c.png)
+![Main Dashboard Preview](https://github.com/Pabitra03/Power-Bi-Project/blob/main/screenshort.png?raw=true)
 
 ## 📊 Dashboard Highlights
 - **Sales by State: Maharashtra leads in sales.**
